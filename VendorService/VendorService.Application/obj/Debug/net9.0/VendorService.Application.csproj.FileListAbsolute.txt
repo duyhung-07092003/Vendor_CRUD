@@ -1,0 +1,15 @@
+D:\netcore\VendorService\VendorService.Application\bin\Debug\net9.0\VendorService.Application.deps.json
+D:\netcore\VendorService\VendorService.Application\bin\Debug\net9.0\VendorService.Application.dll
+D:\netcore\VendorService\VendorService.Application\bin\Debug\net9.0\VendorService.Application.pdb
+D:\netcore\VendorService\VendorService.Application\bin\Debug\net9.0\VendorService.Domain.dll
+D:\netcore\VendorService\VendorService.Application\bin\Debug\net9.0\VendorService.Domain.pdb
+D:\netcore\VendorService\VendorService.Application\obj\Debug\net9.0\VendorService.Application.csproj.AssemblyReference.cache
+D:\netcore\VendorService\VendorService.Application\obj\Debug\net9.0\VendorService.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\netcore\VendorService\VendorService.Application\obj\Debug\net9.0\VendorService.Application.AssemblyInfoInputs.cache
+D:\netcore\VendorService\VendorService.Application\obj\Debug\net9.0\VendorService.Application.AssemblyInfo.cs
+D:\netcore\VendorService\VendorService.Application\obj\Debug\net9.0\VendorService.Application.csproj.CoreCompileInputs.cache
+D:\netcore\VendorService\VendorService.Application\obj\Debug\net9.0\VendorSe.CFC25E5B.Up2Date
+D:\netcore\VendorService\VendorService.Application\obj\Debug\net9.0\VendorService.Application.dll
+D:\netcore\VendorService\VendorService.Application\obj\Debug\net9.0\refint\VendorService.Application.dll
+D:\netcore\VendorService\VendorService.Application\obj\Debug\net9.0\VendorService.Application.pdb
+D:\netcore\VendorService\VendorService.Application\obj\Debug\net9.0\ref\VendorService.Application.dll

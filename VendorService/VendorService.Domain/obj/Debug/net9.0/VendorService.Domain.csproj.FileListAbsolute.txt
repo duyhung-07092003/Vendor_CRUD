@@ -1,0 +1,12 @@
+D:\netcore\VendorService\VendorService.Domain\bin\Debug\net9.0\VendorService.Domain.deps.json
+D:\netcore\VendorService\VendorService.Domain\bin\Debug\net9.0\VendorService.Domain.dll
+D:\netcore\VendorService\VendorService.Domain\bin\Debug\net9.0\VendorService.Domain.pdb
+D:\netcore\VendorService\VendorService.Domain\obj\Debug\net9.0\VendorService.Domain.csproj.AssemblyReference.cache
+D:\netcore\VendorService\VendorService.Domain\obj\Debug\net9.0\VendorService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\netcore\VendorService\VendorService.Domain\obj\Debug\net9.0\VendorService.Domain.AssemblyInfoInputs.cache
+D:\netcore\VendorService\VendorService.Domain\obj\Debug\net9.0\VendorService.Domain.AssemblyInfo.cs
+D:\netcore\VendorService\VendorService.Domain\obj\Debug\net9.0\VendorService.Domain.csproj.CoreCompileInputs.cache
+D:\netcore\VendorService\VendorService.Domain\obj\Debug\net9.0\VendorService.Domain.dll
+D:\netcore\VendorService\VendorService.Domain\obj\Debug\net9.0\refint\VendorService.Domain.dll
+D:\netcore\VendorService\VendorService.Domain\obj\Debug\net9.0\VendorService.Domain.pdb
+D:\netcore\VendorService\VendorService.Domain\obj\Debug\net9.0\ref\VendorService.Domain.dll

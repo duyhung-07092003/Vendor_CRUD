@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\netcore\\VendorService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46D67F44-51C8-43DD-AC34-E66360DB74F3}|VendorService\\VendorService.csproj|d:\\netcore\\vendorservice\\vendorservice\\controllers\\vendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D67F44-51C8-43DD-AC34-E66360DB74F3}|VendorService\\VendorService.csproj|solutionrelative:vendorservice\\controllers\\vendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D67F44-51C8-43DD-AC34-E66360DB74F3}|VendorService\\VendorService.csproj|d:\\netcore\\vendorservice\\vendorservice\\controllers\\vendorsitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D67F44-51C8-43DD-AC34-E66360DB74F3}|VendorService\\VendorService.csproj|solutionrelative:vendorservice\\controllers\\vendorsitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457803A3-3D3E-4614-B18A-C3F17EE2002A}|VendorService.Infrastructure\\VendorService.Infrastructure.csproj|d:\\netcore\\vendorservice\\vendorservice.infrastructure\\repository\\vendorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457803A3-3D3E-4614-B18A-C3F17EE2002A}|VendorService.Infrastructure\\VendorService.Infrastructure.csproj|solutionrelative:vendorservice.infrastructure\\repository\\vendorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840125B5-FB21-4908-ADEE-E6639ECF4B6E}|VendorService.Domain\\VendorService.Domain.csproj|d:\\netcore\\vendorservice\\vendorservice.domain\\models\\tblvendorsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840125B5-FB21-4908-ADEE-E6639ECF4B6E}|VendorService.Domain\\VendorService.Domain.csproj|solutionrelative:vendorservice.domain\\models\\tblvendorsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840125B5-FB21-4908-ADEE-E6639ECF4B6E}|VendorService.Domain\\VendorService.Domain.csproj|d:\\netcore\\vendorservice\\vendorservice.domain\\models\\tblvendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840125B5-FB21-4908-ADEE-E6639ECF4B6E}|VendorService.Domain\\VendorService.Domain.csproj|solutionrelative:vendorservice.domain\\models\\tblvendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840125B5-FB21-4908-ADEE-E6639ECF4B6E}|VendorService.Domain\\VendorService.Domain.csproj|d:\\netcore\\vendorservice\\vendorservice.domain\\automapper\\vendorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840125B5-FB21-4908-ADEE-E6639ECF4B6E}|VendorService.Domain\\VendorService.Domain.csproj|solutionrelative:vendorservice.domain\\automapper\\vendorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457803A3-3D3E-4614-B18A-C3F17EE2002A}|VendorService.Infrastructure\\VendorService.Infrastructure.csproj|d:\\netcore\\vendorservice\\vendorservice.infrastructure\\repository\\vendorsiterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457803A3-3D3E-4614-B18A-C3F17EE2002A}|VendorService.Infrastructure\\VendorService.Infrastructure.csproj|solutionrelative:vendorservice.infrastructure\\repository\\vendorsiterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840125B5-FB21-4908-ADEE-E6639ECF4B6E}|VendorService.Domain\\VendorService.Domain.csproj|d:\\netcore\\vendorservice\\vendorservice.domain\\automapper\\vendorsiteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840125B5-FB21-4908-ADEE-E6639ECF4B6E}|VendorService.Domain\\VendorService.Domain.csproj|solutionrelative:vendorservice.domain\\automapper\\vendorsiteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840125B5-FB21-4908-ADEE-E6639ECF4B6E}|VendorService.Domain\\VendorService.Domain.csproj|d:\\netcore\\vendorservice\\vendorservice.domain\\models\\modelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840125B5-FB21-4908-ADEE-E6639ECF4B6E}|VendorService.Domain\\VendorService.Domain.csproj|solutionrelative:vendorservice.domain\\models\\modelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{840125B5-FB21-4908-ADEE-E6639ECF4B6E}|VendorService.Domain\\VendorService.Domain.csproj|d:\\netcore\\vendorservice\\vendorservice.domain\\automapper\\vendorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{840125B5-FB21-4908-ADEE-E6639ECF4B6E}|VendorService.Domain\\VendorService.Domain.csproj|solutionrelative:vendorservice.domain\\automapper\\vendorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D67F44-51C8-43DD-AC34-E66360DB74F3}|VendorService\\VendorService.csproj|d:\\netcore\\vendorservice\\vendorservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D67F44-51C8-43DD-AC34-E66360DB74F3}|VendorService\\VendorService.csproj|solutionrelative:vendorservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 331,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TblVendor.cs",
+              "DocumentMoniker": "D:\\netcore\\VendorService\\VendorService.Domain\\Models\\TblVendor.cs",
+              "RelativeDocumentMoniker": "VendorService.Domain\\Models\\TblVendor.cs",
+              "ToolTip": "D:\\netcore\\VendorService\\VendorService.Domain\\Models\\TblVendor.cs",
+              "RelativeToolTip": "VendorService.Domain\\Models\\TblVendor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T09:13:03.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TblVendorSite.cs",
+              "DocumentMoniker": "D:\\netcore\\VendorService\\VendorService.Domain\\Models\\TblVendorSite.cs",
+              "RelativeDocumentMoniker": "VendorService.Domain\\Models\\TblVendorSite.cs",
+              "ToolTip": "D:\\netcore\\VendorService\\VendorService.Domain\\Models\\TblVendorSite.cs",
+              "RelativeToolTip": "VendorService.Domain\\Models\\TblVendorSite.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:23:25.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VendorViewModel.cs",
+              "DocumentMoniker": "D:\\netcore\\VendorService\\VendorService.Domain\\AutoMapper\\VendorViewModel.cs",
+              "RelativeDocumentMoniker": "VendorService.Domain\\AutoMapper\\VendorViewModel.cs",
+              "ToolTip": "D:\\netcore\\VendorService\\VendorService.Domain\\AutoMapper\\VendorViewModel.cs",
+              "RelativeToolTip": "VendorService.Domain\\AutoMapper\\VendorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:16:22.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VendorSiteRepository.cs",
+              "DocumentMoniker": "D:\\netcore\\VendorService\\VendorService.Infrastructure\\Repository\\VendorSiteRepository.cs",
+              "RelativeDocumentMoniker": "VendorService.Infrastructure\\Repository\\VendorSiteRepository.cs",
+              "ToolTip": "D:\\netcore\\VendorService\\VendorService.Infrastructure\\Repository\\VendorSiteRepository.cs",
+              "RelativeToolTip": "VendorService.Infrastructure\\Repository\\VendorSiteRepository.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAvwHoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T09:36:34.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VendorRepository.cs",
+              "DocumentMoniker": "D:\\netcore\\VendorService\\VendorService.Infrastructure\\Repository\\VendorRepository.cs",
+              "RelativeDocumentMoniker": "VendorService.Infrastructure\\Repository\\VendorRepository.cs",
+              "ToolTip": "D:\\netcore\\VendorService\\VendorService.Infrastructure\\Repository\\VendorRepository.cs",
+              "RelativeToolTip": "VendorService.Infrastructure\\Repository\\VendorRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwHMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T01:47:39.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VendorController.cs",
+              "DocumentMoniker": "D:\\netcore\\VendorService\\VendorService\\Controllers\\VendorController.cs",
+              "RelativeDocumentMoniker": "VendorService\\Controllers\\VendorController.cs",
+              "ToolTip": "D:\\netcore\\VendorService\\VendorService\\Controllers\\VendorController.cs",
+              "RelativeToolTip": "VendorService\\Controllers\\VendorController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAswF0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T03:18:14.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VendorSiteController.cs",
+              "DocumentMoniker": "D:\\netcore\\VendorService\\VendorService\\Controllers\\VendorSiteController.cs",
+              "RelativeDocumentMoniker": "VendorService\\Controllers\\VendorSiteController.cs",
+              "ToolTip": "D:\\netcore\\VendorService\\VendorService\\Controllers\\VendorSiteController.cs",
+              "RelativeToolTip": "VendorService\\Controllers\\VendorSiteController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswF4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T09:37:00.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VendorSiteViewModel.cs",
+              "DocumentMoniker": "D:\\netcore\\VendorService\\VendorService.Domain\\AutoMapper\\VendorSiteViewModel.cs",
+              "RelativeDocumentMoniker": "VendorService.Domain\\AutoMapper\\VendorSiteViewModel.cs",
+              "ToolTip": "D:\\netcore\\VendorService\\VendorService.Domain\\AutoMapper\\VendorSiteViewModel.cs",
+              "RelativeToolTip": "VendorService.Domain\\AutoMapper\\VendorSiteViewModel.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAiwIAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:16:17.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VendorProfile.cs",
+              "DocumentMoniker": "D:\\netcore\\VendorService\\VendorService.Domain\\AutoMapper\\VendorProfile.cs",
+              "RelativeDocumentMoniker": "VendorService.Domain\\AutoMapper\\VendorProfile.cs",
+              "ToolTip": "D:\\netcore\\VendorService\\VendorService.Domain\\AutoMapper\\VendorProfile.cs",
+              "RelativeToolTip": "VendorService.Domain\\AutoMapper\\VendorProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:15:47.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ModelContext.cs",
+              "DocumentMoniker": "D:\\netcore\\VendorService\\VendorService.Domain\\Models\\ModelContext.cs",
+              "RelativeDocumentMoniker": "VendorService.Domain\\Models\\ModelContext.cs",
+              "ToolTip": "D:\\netcore\\VendorService\\VendorService.Domain\\Models\\ModelContext.cs",
+              "RelativeToolTip": "VendorService.Domain\\Models\\ModelContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:23:02.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\netcore\\VendorService\\VendorService\\Program.cs",
+              "RelativeDocumentMoniker": "VendorService\\Program.cs",
+              "ToolTip": "D:\\netcore\\VendorService\\VendorService\\Program.cs",
+              "RelativeToolTip": "VendorService\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T01:50:32.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

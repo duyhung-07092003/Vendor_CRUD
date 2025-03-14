@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "CIsAY753UN8lmMOmkMkPhZZDfMsw542jHM4qFtE8QKE=",
+  "Source": "VendorService",
+  "BasePath": "_content/VendorService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,15 @@
+D:\netcore\VendorService\VendorService.Infrastructure\bin\Debug\net9.0\VendorService.Infrastructure.deps.json
+D:\netcore\VendorService\VendorService.Infrastructure\bin\Debug\net9.0\VendorService.Infrastructure.dll
+D:\netcore\VendorService\VendorService.Infrastructure\bin\Debug\net9.0\VendorService.Infrastructure.pdb
+D:\netcore\VendorService\VendorService.Infrastructure\bin\Debug\net9.0\VendorService.Domain.dll
+D:\netcore\VendorService\VendorService.Infrastructure\bin\Debug\net9.0\VendorService.Domain.pdb
+D:\netcore\VendorService\VendorService.Infrastructure\obj\Debug\net9.0\VendorService.Infrastructure.csproj.AssemblyReference.cache
+D:\netcore\VendorService\VendorService.Infrastructure\obj\Debug\net9.0\VendorService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\netcore\VendorService\VendorService.Infrastructure\obj\Debug\net9.0\VendorService.Infrastructure.AssemblyInfoInputs.cache
+D:\netcore\VendorService\VendorService.Infrastructure\obj\Debug\net9.0\VendorService.Infrastructure.AssemblyInfo.cs
+D:\netcore\VendorService\VendorService.Infrastructure\obj\Debug\net9.0\VendorService.Infrastructure.csproj.CoreCompileInputs.cache
+D:\netcore\VendorService\VendorService.Infrastructure\obj\Debug\net9.0\VendorSe.4EF94B6D.Up2Date
+D:\netcore\VendorService\VendorService.Infrastructure\obj\Debug\net9.0\VendorService.Infrastructure.dll
+D:\netcore\VendorService\VendorService.Infrastructure\obj\Debug\net9.0\refint\VendorService.Infrastructure.dll
+D:\netcore\VendorService\VendorService.Infrastructure\obj\Debug\net9.0\VendorService.Infrastructure.pdb
+D:\netcore\VendorService\VendorService.Infrastructure\obj\Debug\net9.0\ref\VendorService.Infrastructure.dll
